@@ -1,0 +1,7 @@
+{
+  "name": "biox-qr-generator",
+  "version": "1.0.0",
+  "entrypoint": "Phon qr_generator.py --url https://www.bioxsystems.com --out qrs/Biox-Systems.png --caption QR code for the Biox",
+  "description": "Simple QR code generator for URLs using Python and qrcode.",
+  "author": "Chanda Kiran Billingi"
+}
